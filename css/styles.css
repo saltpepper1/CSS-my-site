@@ -1,6 +1,14 @@
+body {
+  text-align: center;
+}
+
+h1 {
+  width: 10%;
+  margin: 0 auto;
+}
 
 .top-container {
-  background-color: #F7F6F2;
+  background-color: #DEEDF0;
 }
 
 .middle-container {
@@ -15,10 +23,10 @@
   background-color: blue;
 }
 
-body {
-  margin: 0;
+.pro {
+  text-decoration: underline;
 }
 
-h1 {
+body {
   margin: 0;
 }
